@@ -5,7 +5,7 @@
 
 Este proyecto consiste en el desarrollo de un sistema de descuentos en consola utilizando Python. El programa permite calcular el precio final de un producto aplicando un descuento según el tipo de cliente seleccionado.
 
-El usuario ingresa el precio del producto y elige el tipo de cliente desde un menú de opciones. A partir de esta información, el sistema aplica el porcentaje de descuento correspondiente y muestra el resultado final de forma clara y ordenada.
+El usuario ingresa el precio del producto y selecciona el tipo de cliente desde un menú de opciones mostrado en la consola. Con base en la opción elegida, el sistema identifica el porcentaje de descuento que corresponde a cada tipo de cliente y realiza el cálculo de manera automática. Finalmente, el programa muestra el precio final del producto de forma clara y ordenada, permitiendo al usuario comprender fácilmente cómo se aplicó el descuento.
 
 El objetivo del proyecto es reforzar el uso de condicionales, operadores lógicos y variables, aplicando reglas simples que simulan situaciones reales como los descuentos comerciales.
 
